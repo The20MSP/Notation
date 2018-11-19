@@ -1,0 +1,9 @@
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\bin\Release\Notation.exe.config
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\bin\Release\Notation.exe
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\bin\Release\Notation.pdb
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Release\Notation.Form1.resources
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Release\Notation.Properties.Resources.resources
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Release\Notation.csproj.GenerateResource.cache
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Release\Notation.csproj.CoreCompileInputs.cache
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Release\Notation.exe
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Release\Notation.pdb

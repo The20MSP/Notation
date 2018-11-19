@@ -1,0 +1,20 @@
+c:\users\michael.hanson\source\repos\Notation\Notation\bin\Debug\Notation.exe.config
+c:\users\michael.hanson\source\repos\Notation\Notation\bin\Debug\Notation.exe
+c:\users\michael.hanson\source\repos\Notation\Notation\bin\Debug\Notation.pdb
+c:\users\michael.hanson\source\repos\Notation\Notation\obj\Debug\Notation.csprojAssemblyReference.cache
+c:\users\michael.hanson\source\repos\Notation\Notation\obj\Debug\Notation.Form1.resources
+c:\users\michael.hanson\source\repos\Notation\Notation\obj\Debug\Notation.Properties.Resources.resources
+c:\users\michael.hanson\source\repos\Notation\Notation\obj\Debug\Notation.csproj.GenerateResource.cache
+c:\users\michael.hanson\source\repos\Notation\Notation\obj\Debug\Notation.csproj.CoreCompileInputs.cache
+c:\users\michael.hanson\source\repos\Notation\Notation\obj\Debug\Notation.exe
+c:\users\michael.hanson\source\repos\Notation\Notation\obj\Debug\Notation.pdb
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Debug\Notation.csprojAssemblyReference.cache
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Debug\Notation.Form1.resources
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Debug\Notation.Properties.Resources.resources
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Debug\Notation.csproj.GenerateResource.cache
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Debug\Notation.csproj.CoreCompileInputs.cache
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Debug\Notation.exe
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\obj\Debug\Notation.pdb
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\bin\Debug\Notation.exe.config
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\bin\Debug\Notation.exe
+C:\Users\zack.wood\Documents\Notation v1.1\Notation Source\Notation\bin\Debug\Notation.pdb
